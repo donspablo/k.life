@@ -1,5 +1,5 @@
 ---
-title: 'k.life: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
+title: 'k.life: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
 k.life is under construction."
 ---
 
